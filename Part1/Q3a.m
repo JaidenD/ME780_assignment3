@@ -1,4 +1,4 @@
-%% ME 780 Assignment 3 - Part 2(a)
+%% ME 780 Assignment 3 - Part 1.2(a)
 % Front 1-DOF quarter-car displacement and acceleration transmissibility
 
 clear;

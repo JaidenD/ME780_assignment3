@@ -1,3 +1,6 @@
+%% ME 780 Assignment 3 - Part 1(b)
+
+
 clear; clc; close all;
 
 %% Vehicle and suspension parameters
